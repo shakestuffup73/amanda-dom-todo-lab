@@ -18,6 +18,10 @@ hr {
   height: 4px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 ul>li {
   color: #f2efee;
   text-shadow: 1px 1px 2px #A34e41
@@ -152,3 +156,5 @@ ul>li {
   color: #f2efee;
   transform: translateY(0);
 }
+
+/* Buttons style from Bootstrap CSS, then modified by me */
